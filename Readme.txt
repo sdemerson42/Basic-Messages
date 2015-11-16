@@ -1,0 +1,3 @@
+Simple Messages - 11-16-15
+
+This is an extremely simple project that I created over the course of three evenings in an attempt to create working versions of a handful of design patterns I'd been studying. The goal was to create a simple interactive program with graphics and sound using component-based game objects and a basic messaging system allowing objects and systems to communicate with one another without directly accessing data or methods.
